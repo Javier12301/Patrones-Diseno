@@ -1,0 +1,8 @@
+C:\Patron De Diseño\Decorator\Decorator-Ej-Cafe\bin\Debug\Decorator-Ej-Cafe.exe.config
+C:\Patron De Diseño\Decorator\Decorator-Ej-Cafe\bin\Debug\Decorator-Ej-Cafe.exe
+C:\Patron De Diseño\Decorator\Decorator-Ej-Cafe\bin\Debug\Decorator-Ej-Cafe.pdb
+C:\Patron De Diseño\Decorator\Decorator-Ej-Cafe\obj\Debug\Decorator-Ej-Cafe.csproj.AssemblyReference.cache
+C:\Patron De Diseño\Decorator\Decorator-Ej-Cafe\obj\Debug\Decorator-Ej-Cafe.csproj.SuggestedBindingRedirects.cache
+C:\Patron De Diseño\Decorator\Decorator-Ej-Cafe\obj\Debug\Decorator-Ej-Cafe.csproj.CoreCompileInputs.cache
+C:\Patron De Diseño\Decorator\Decorator-Ej-Cafe\obj\Debug\Decorator-Ej-Cafe.exe
+C:\Patron De Diseño\Decorator\Decorator-Ej-Cafe\obj\Debug\Decorator-Ej-Cafe.pdb

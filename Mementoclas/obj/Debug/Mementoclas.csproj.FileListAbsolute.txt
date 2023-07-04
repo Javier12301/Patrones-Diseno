@@ -1,0 +1,6 @@
+C:\Patron De Diseño\Mementoclas\bin\Debug\Mementoclas.dll
+C:\Patron De Diseño\Mementoclas\bin\Debug\Mementoclas.pdb
+C:\Patron De Diseño\Mementoclas\obj\Debug\Mementoclas.csproj.AssemblyReference.cache
+C:\Patron De Diseño\Mementoclas\obj\Debug\Mementoclas.csproj.CoreCompileInputs.cache
+C:\Patron De Diseño\Mementoclas\obj\Debug\Mementoclas.dll
+C:\Patron De Diseño\Mementoclas\obj\Debug\Mementoclas.pdb

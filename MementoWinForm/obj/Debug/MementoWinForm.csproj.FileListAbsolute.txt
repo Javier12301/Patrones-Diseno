@@ -1,0 +1,14 @@
+C:\Patron De Diseño\MementoWinForm\obj\Debug\MementoWinForm.csproj.AssemblyReference.cache
+C:\Patron De Diseño\MementoWinForm\obj\Debug\MementoWinForm.csproj.SuggestedBindingRedirects.cache
+C:\Patron De Diseño\MementoWinForm\obj\Debug\MementoWinForm.mementoForm.resources
+C:\Patron De Diseño\MementoWinForm\obj\Debug\MementoWinForm.Properties.Resources.resources
+C:\Patron De Diseño\MementoWinForm\obj\Debug\MementoWinForm.csproj.GenerateResource.cache
+C:\Patron De Diseño\MementoWinForm\obj\Debug\MementoWinForm.csproj.CoreCompileInputs.cache
+C:\Patron De Diseño\MementoWinForm\bin\Debug\MementoWinForm.exe.config
+C:\Patron De Diseño\MementoWinForm\bin\Debug\MementoWinForm.exe
+C:\Patron De Diseño\MementoWinForm\bin\Debug\MementoWinForm.pdb
+C:\Patron De Diseño\MementoWinForm\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Patron De Diseño\MementoWinForm\bin\Debug\Guna.UI.dll
+C:\Patron De Diseño\MementoWinForm\obj\Debug\MementoWinForm.csproj.CopyComplete
+C:\Patron De Diseño\MementoWinForm\obj\Debug\MementoWinForm.exe
+C:\Patron De Diseño\MementoWinForm\obj\Debug\MementoWinForm.pdb

@@ -1,0 +1,11 @@
+C:\Patron De Diseño\Memento-Ej1\bin\Debug\Memento-Ej1.exe.config
+C:\Patron De Diseño\Memento-Ej1\bin\Debug\Memento-Ej1.exe
+C:\Patron De Diseño\Memento-Ej1\bin\Debug\Memento-Ej1.pdb
+C:\Patron De Diseño\Memento-Ej1\bin\Debug\Mementoclas.dll
+C:\Patron De Diseño\Memento-Ej1\bin\Debug\Mementoclas.pdb
+C:\Patron De Diseño\Memento-Ej1\obj\Debug\Memento-Ej1.csproj.AssemblyReference.cache
+C:\Patron De Diseño\Memento-Ej1\obj\Debug\Memento-Ej1.csproj.SuggestedBindingRedirects.cache
+C:\Patron De Diseño\Memento-Ej1\obj\Debug\Memento-Ej1.csproj.CoreCompileInputs.cache
+C:\Patron De Diseño\Memento-Ej1\obj\Debug\Memento-Ej1.csproj.CopyComplete
+C:\Patron De Diseño\Memento-Ej1\obj\Debug\Memento-Ej1.exe
+C:\Patron De Diseño\Memento-Ej1\obj\Debug\Memento-Ej1.pdb

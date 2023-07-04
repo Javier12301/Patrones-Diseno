@@ -1,0 +1,8 @@
+C:\Patron De Diseño\Memento2\bin\Debug\Memento2.exe.config
+C:\Patron De Diseño\Memento2\bin\Debug\Memento2.exe
+C:\Patron De Diseño\Memento2\bin\Debug\Memento2.pdb
+C:\Patron De Diseño\Memento2\obj\Debug\Memento2.csproj.AssemblyReference.cache
+C:\Patron De Diseño\Memento2\obj\Debug\Memento2.csproj.SuggestedBindingRedirects.cache
+C:\Patron De Diseño\Memento2\obj\Debug\Memento2.csproj.CoreCompileInputs.cache
+C:\Patron De Diseño\Memento2\obj\Debug\Memento2.exe
+C:\Patron De Diseño\Memento2\obj\Debug\Memento2.pdb

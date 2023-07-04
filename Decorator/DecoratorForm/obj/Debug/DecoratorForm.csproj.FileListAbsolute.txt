@@ -1,0 +1,14 @@
+C:\Patron De Diseño\Decorator\DecoratorForm\bin\Debug\DecoratorForm.exe.config
+C:\Patron De Diseño\Decorator\DecoratorForm\bin\Debug\DecoratorForm.exe
+C:\Patron De Diseño\Decorator\DecoratorForm\bin\Debug\DecoratorForm.pdb
+C:\Patron De Diseño\Decorator\DecoratorForm\bin\Debug\Guna.UI.dll
+C:\Patron De Diseño\Decorator\DecoratorForm\obj\Debug\DecoratorForm.csproj.AssemblyReference.cache
+C:\Patron De Diseño\Decorator\DecoratorForm\obj\Debug\DecoratorForm.csproj.SuggestedBindingRedirects.cache
+C:\Patron De Diseño\Decorator\DecoratorForm\obj\Debug\DecoratorForm.Form1.resources
+C:\Patron De Diseño\Decorator\DecoratorForm\obj\Debug\DecoratorForm.Properties.Resources.resources
+C:\Patron De Diseño\Decorator\DecoratorForm\obj\Debug\DecoratorForm.csproj.GenerateResource.cache
+C:\Patron De Diseño\Decorator\DecoratorForm\obj\Debug\DecoratorForm.csproj.CoreCompileInputs.cache
+C:\Patron De Diseño\Decorator\DecoratorForm\obj\Debug\DecoratorForm.csproj.CopyComplete
+C:\Patron De Diseño\Decorator\DecoratorForm\obj\Debug\DecoratorForm.exe
+C:\Patron De Diseño\Decorator\DecoratorForm\obj\Debug\DecoratorForm.pdb
+C:\Patron De Diseño\Decorator\DecoratorForm\bin\Debug\Bunifu_UI_v1.5.3.dll
